@@ -9,6 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <div align="center"><img src="https://github.com/jie-cat/firebase-auth-email/blob/main/src/assets/signUp.png" width="650px"></div>
 <div align="center"><img src="https://github.com/jie-cat/firebase-auth-email/blob/main/src/assets/signIn.png" width="650px"></div>
 <div align="center"><img src="https://github.com/jie-cat/firebase-auth-email/blob/main/src/assets/account.png" width="650px"></div>
+<div align="center"><img src="https://github.com/jie-cat/firebase-auth-email/blob/main/src/assets/firebase.png" width="650px"></div>
 
 ## Requirement
 
