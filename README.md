@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-使用ReactJS開發, 使用react-router-dom設計基本SPA 註冊、登入、登出頁面, 使用Firebase API 處理 Email 驗證
+使用ReactJS開發, 使用react-router-dom設計基本SPA 註冊、登入、登出頁面, 使用Firebase auth API 處理 Email 驗證
 
 <div align="center"><img src="https://github.com/jie-cat/firebase-auth-email/blob/main/src/assets/signUp.png" width="650px"></div>
 <div align="center"><img src="https://github.com/jie-cat/firebase-auth-email/blob/main/src/assets/signIn.png" width="650px"></div>
