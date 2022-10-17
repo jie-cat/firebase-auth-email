@@ -18,8 +18,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Build Setup (Local)
 
 1. `yarn create react-app firebase-auth-mail`
-2. `yarn add react-router-dom`
-3. `yarn add firebase`
+2. Install Tailwind CSS with Create React App  https://tailwindcss.com/docs/guides/create-react-app
+3. `yarn add react-router-dom`
+4. `yarn add firebase`
 
 ### `yarn start`
 
